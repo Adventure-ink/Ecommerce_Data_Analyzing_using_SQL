@@ -1,19 +1,3 @@
-
-**Ecommerce_Data_Analyzing_using_SQL**.
-
-It includes:
-
-✔ Executive summary
-✔ Business context
-✔ Skills showcased
-✔ Dataset explanation
-✔ Folder structure with live clickable links
-✔ Description of every SQL file
-✔ How to run the project
-✔ Why this project is valuable for hiring managers
-
----
-
 # 📊 Ecommerce Data Analysis Using SQL
 
 ### Advanced E-Commerce Analytics • Funnel Analysis • Marketing Performance • A/B Testing • User Behaviour Insights
